@@ -1,4 +1,4 @@
-![http://ues.li/ata.jpg](ata)
+![http://ues.li/ata.jpg](http://ues.li/ata.jpg)
 
 ## Using promises - the right way!
 
